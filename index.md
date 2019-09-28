@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can find my [resume](https://github.com/nhanle09/nhanle09.github.io/Resume_Nhan_Le.pdf)
+Look at my resume [resume](https://github.com/nhanle09/nhanle09.github.io/edit/master/Resume_Nhan_Le.pdf).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
